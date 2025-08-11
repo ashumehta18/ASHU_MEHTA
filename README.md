@@ -2,7 +2,7 @@
 
 🚀 **Third-Year Computer Science Student** | 💡 **Tech Enthusiast** | 🎯 **Innovator**  
 
-I'm a **driven and ambitious** developer passionate about **technology** and **innovation**.  
+I'm a **driven and ambitious** developer passionate about **technology** and **innovation**. 
 With strong expertise in programming and development, I thrive on turning ideas into reality through code.  
 
 ---
