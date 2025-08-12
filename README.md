@@ -40,18 +40,18 @@ With strong expertise in programming and development, I thrive on turning ideas 
 ---
 
 ## 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB&theme=tokyonight&margin-w=15&margin-h=15)  
+![trophy](https://github.com/ashumehta18)  
 
 ---
 
 ## 📈 Contribution Graph  
-[![Ashu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Ashu's github activity graph](https://github.com/ashumehta18)  
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashu-mehta-a664052b2)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashumehta18)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ashu_129/)  
 
 ---
